@@ -1,1 +1,1 @@
-the code is working on a webiste used for online coding and ai platforms
+the code is working on a website used for online coding and ai platforms
